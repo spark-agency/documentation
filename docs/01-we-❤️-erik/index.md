@@ -1,0 +1,2 @@
+# Hi Erik!
+What do you think about the preview feature? You can enable it by appending ?mode=preview to the url or just click [preview](https://toddle_docs.toddle.site?mode=preview) here in on this page.
