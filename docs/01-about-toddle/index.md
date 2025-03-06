@@ -32,6 +32,14 @@ Here's a different callout. _Emphasized words_ The callout can also contain [lin
 Here's a different callout. The callout can also contain [links](https://toodle.dev). You can place headings in here, but you really should not. A callout is for a small nugget of information.
 :::
 
+@@@ example
+componentUrl: https://cdn.example.com/web-component.js
+editorUrl: https://editor.example.com/deeplink/to/example
+height: 400px
+
+This example demonstrates how to use our component.
+@@@
+
 ## Development with Toddle
 Development with toddle is nice.
 
