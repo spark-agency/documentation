@@ -43,4 +43,5 @@ No Code has more abstraction. Hit [kbd]A[kbd] to access the AI assistant. You ca
 
 @@@ youtube
 videoId: ulZJTV3ouHs
+title: Jacob explains the world
 @@@
