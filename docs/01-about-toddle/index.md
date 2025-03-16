@@ -39,6 +39,6 @@ Development with toddle is nice.
 Toddle is a very lightweight framework that bases on vanilla JavaScript. The runtime only has around 30 kb.
 
 ## Comparison to No Code Tools
-No Code has more abstraction.
+No Code has more abstraction. Hit [kbd]A[kbd] to access the AI assistant. You can also use [kbd]CMD[kbd] + [kbd]K[kbd], but this will do nothing.
 
 No Code and AI tools might be garbage.
