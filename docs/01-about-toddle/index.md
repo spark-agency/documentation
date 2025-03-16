@@ -40,3 +40,7 @@ Toddle is a very lightweight framework that bases on vanilla JavaScript. The run
 No Code has more abstraction. Hit [kbd]A[kbd] to access the AI assistant. You can also use [kbd]CMD[kbd] + [kbd]K[kbd], but this will do nothing.
 
 ![Toddle in Context|16/9](https://images.ctfassets.net/lizv2opdd3ay/6FCBNbwjzzmeRDrXTb7jcr/efecbf8c44360ebdaf677561f9fd8fbd/create_a_project.webp){https://editor.com}
+
+@@@ youtube
+videoId: ulZJTV3ouHs
+@@@
