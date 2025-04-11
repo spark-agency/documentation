@@ -37,7 +37,7 @@ HTML elements can be configured using attributes. These provide additional infor
 You can modify an element's attributes in the [attributes tab](/the-editor/element-panel#attributes-tab) of the [element panel](/the-editor/element-panel).
 
 ::: info
-For a complete list of HTML attributes, refer to the [HTML Attributes reference on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes).
+For a complete list of HTML attributes, refer to the [HTML Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes) reference on MDN.
 :::
 
 ### HTML element events
@@ -46,7 +46,7 @@ HTML elements can respond to user interactions through events. You can listen to
 Events are configured in the [events tab](/the-editor/element-panel#events-tab) of the [element panel](/the-editor/element-panel).
 
 ::: info
-For detailed information about all available events, see the [Events reference on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event).
+For detailed information about all available events, see the [Events](https://developer.mozilla.org/en-US/docs/Web/API/Event) reference on MDN.
 :::
 
 ## Text elements
@@ -76,5 +76,5 @@ There are several important limitations to be aware of when working with element
 - Some HTML elements, such as `<img>`, `<input>` and `<br>`, are designed to be self-closing and cannot contain child elements
 
 ::: info
-For detailed information about HTML element constraints and proper nesting, refer to the [HTML Elements reference on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+For detailed information about HTML element constraints and proper nesting, refer to the [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) reference on MDN.
 :::
